@@ -16,3 +16,7 @@ terminal is an electronic communication hardware device that handles the input a
 Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
 
 abstraction is a programmer hides all but the relevant data about an object in order to reduce complexity and increase efficiency.
+
+reset stylesheet is a collection of CSS rules used to clear the browser's default formatting of HTML elements, removing potential inconsistencies between different browsers.
+
+User-agent, or browsers, have basic style sheets that give default styles to any document. These style sheets are named user-agent stylesheets. Most browsers use actual stylesheets for this purpose, while others simulate them in code.
