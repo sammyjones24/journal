@@ -20,3 +20,6 @@ abstraction is a programmer hides all but the relevant data about an object in o
 reset stylesheet is a collection of CSS rules used to clear the browser's default formatting of HTML elements, removing potential inconsistencies between different browsers.
 
 User-agent, or browsers, have basic style sheets that give default styles to any document. These style sheets are named user-agent stylesheets. Most browsers use actual stylesheets for this purpose, while others simulate them in code.
+
+javaScript: JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. 
+
